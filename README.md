@@ -6,4 +6,4 @@ Student la Automatică & Calculatoare, UTCB. Construiesc aplicații web full-sta
 
 **Stack:** TypeScript, Next.js, React, Supabase (PostgreSQL + RLS), Tailwind, Vercel. Lucrez zilnic cu agenți de cod AI (Claude Code, opencode).
 
-**Mă găsești la:** [LinkedIn](https://linkedin.com/in/COMPLETEAZA) · edi2004george@gmail.com
+**Mă găsești la:** [LinkedIn](https://linkedin.com/in/eduard-iliescu-582ab22b4/?locale=en) · edi2004george@gmail.com
