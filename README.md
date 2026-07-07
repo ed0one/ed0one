@@ -1,9 +1,9 @@
-# Salut, sunt Eduard 👋
+# Hi, I'm Eduard 👋
 
-Student la Automatică & Calculatoare, UTCB. Construiesc aplicații web full-stack.
+Automation & Computer Science student at UTCB (Bucharest). I build full-stack web applications.
 
-**La ce lucrez acum:** [TaskCapture](https://github.com/ed0one/practica_devidevs) — transformă text liber în task-uri structurate cu AI, cu calendar și remindere pe email. Live la [taskcapture.xyz](https://www.taskcapture.xyz). Rolul meu: integrare LLM (NVIDIA NIM + validare Zod), email (Resend), auth/OAuth, dashboard UI, deploy pe Vercel.
+**Currently working on:** [TaskCapture](https://github.com/ed0one/practica_devidevs) — turns free-form text into structured tasks with AI, with a calendar and email reminders. Live at [taskcapture.xyz](https://www.taskcapture.xyz). My part: LLM integration (NVIDIA NIM + Zod validation), email (Resend), auth/OAuth, dashboard UI, Vercel deployment.
 
-**Stack:** TypeScript, Next.js, React, Supabase (PostgreSQL + RLS), Tailwind, Vercel. Lucrez zilnic cu agenți de cod AI (Claude Code, opencode).
+**Stack:** TypeScript, Next.js, React, Supabase (PostgreSQL + RLS), Tailwind, Vercel. I work daily with AI coding agents (Claude Code, opencode).
 
-**Mă găsești la:** [LinkedIn](https://linkedin.com/in/COMPLETEAZA) · edi2004george@gmail.com
+**Reach me:** [LinkedIn](https://linkedin.com/in/COMPLETEAZA) · edi2004george@gmail.com
