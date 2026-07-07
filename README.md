@@ -6,4 +6,4 @@ Automation & Computer Science student at UTCB (Bucharest). I build full-stack we
 
 **Stack:** TypeScript, Next.js, React, Supabase (PostgreSQL + RLS), Tailwind, Vercel. I work daily with AI coding agents (Claude Code, opencode).
 
-**Reach me:** [LinkedIn](https://linkedin.com/in/COMPLETEAZA) · edi2004george@gmail.com
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/eduard-iliescu-582ab22b4/) · edi2004george@gmail.com
